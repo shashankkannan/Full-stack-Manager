@@ -36,5 +36,5 @@ Welcome to the **Project Manager**! This tool automates the creation, setup, and
 
 ### **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/project-manager.git
+git clone https://github.com/shashankkannan/Full-stack-Manager.git
 cd project-manager
