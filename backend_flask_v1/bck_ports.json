@@ -1,0 +1,23 @@
+{
+    "9601": {
+        "app_name": "my-project-v1",
+        "unique_number": "ba8d4929",
+        "State": "stopped",
+        "BCK": "Flask",
+        "Folder_path": "C:\\Users\\Shashank\\Desktop\\Project Manager\\backend_flask_v1\\projects_bck_child\\my-project-v1ba8d4929"
+    },
+    "9602": {
+        "app_name": "my-project-v1",
+        "unique_number": "3889c1b8",
+        "State": "stopped",
+        "BCK": "Express",
+        "Folder_path": "C:\\Users\\Shashank\\Desktop\\Project Manager\\backend_flask_v1\\projects_bck_child\\my-project-v13889c1b8"
+    },
+    "9603": {
+        "app_name": "my-project-v1",
+        "unique_number": "eee7338f",
+        "State": "stopped",
+        "BCK": "Django",
+        "Folder_path": "C:\\Users\\Shashank\\Desktop\\Project Manager\\backend_flask_v1\\projects_bck_child\\my-project-v1eee7338f"
+    }
+}

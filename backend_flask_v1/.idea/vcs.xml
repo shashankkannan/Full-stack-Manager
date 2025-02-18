@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/projects_child/first_app_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/my-project/my-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/w_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/w_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/w_v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/w_vv1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/w_vv3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_app_1/web_app_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_app_version_1/web_app_version_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_app_version_2/web_app_version_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_app_version_3/web_app_version_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_app_version_4/web_app_version_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/web_version_1/web_version_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/webapp_version_1/webapp_version_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/woah5/woah5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/wvv_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/wvv_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/ww_vv_10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/ww_vv_20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects_child/ww_vv_21" vcs="Git" />
+  </component>
+</project>
