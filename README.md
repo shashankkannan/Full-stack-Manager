@@ -1,4 +1,4 @@
-# Project Manager: Automated Full-Stack App Setup and Management
+# Project Manager: Automated Full-Stack App Setup and Management.
 
 Welcome to the **Project Manager**! This tool automates the creation, setup, and management of full-stack applications. It supports **Flask**, **Express.js**, and **Django** for the backend, and automatically creates a **React.js** frontend with all necessary dependencies.
 
